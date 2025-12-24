@@ -1,0 +1,65 @@
+body {
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background-color: #f8f9fc;
+      color: #2c2f36;
+    }
+
+    .navbar {
+      background-color: #0f172a;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: #ffffff;
+      padding: 90px 0;
+    }
+
+    .hero h1 {
+      font-weight: 700;
+    }
+
+    .hero p {
+      color: #cbd5e1;
+    }
+
+    .section-title {
+      font-weight: 700;
+      color: #0f172a;
+      margin-bottom: 40px;
+    }
+
+    .card {
+      border: none;
+      border-radius: 14px;
+      background-color: #ffffff;
+    }
+
+    .card-title {
+      font-weight: 600;
+      color: #0f172a;
+    }
+
+    .card-text {
+      color: #475569;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      transition: 0.3s ease;
+    }
+
+    .service-img {
+      height: 180px;
+      object-fit: cover;
+      border-top-left-radius: 14px;
+      border-top-right-radius: 14px;
+    }
+
+    .why-us {
+      background-color: #f1f5f9;
+    }
+
+    footer {
+      background-color: #0f172a;
+      color: #cbd5e1;
+    }
